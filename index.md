@@ -47,21 +47,25 @@
 
 <div style="margin-left: 20px;">
 
-**About Product**
-- Web App.
-- Made with friends.
-- Translates Automatically from English words chosen from texts to Japanese and generates word list.
-- You can download word list as csv file.
-- [More about app](https://docs.google.com/presentation/d/1C3ui2fw9yjJJow5gqm2k9CFzW5NhGQDT3527D-Izimw/edit?usp=sharing) (only Japanese)
+<b>About Product</b>
+<ul>
+    <li> Web App.</li>
+    <li> Made with friends.</li>
+    <li> Translates Automatically from English words chosen from texts to Japanese and generates word list.</li>
+    <li> You can download word list as csv file.</li>
+    <li> <a href="https://docs.google.com/presentation/d/1C3ui2fw9yjJJow5gqm2k9CFzW5NhGQDT3527D-Izimw/edit?usp=sharing">More about app</a> (only Japanese)
+</ul>
 
-**Architecture**  
-- Cloud Server: Heroku
-- OS: Ubuntu
-- DB: PostgreSQL, Redis
-- Language: Python, React
-- Flamework: Flask
+<b>Architecture</b> 
+<ul>
+    <li>Cloud Server: Heroku</li>
+    <li>OS: Ubuntu</li>
+    <li>DB: PostgreSQL, Redis</li>
+    <li>Language: Python, React</li>
+    <li>Flamework: Flask</li>
+</ul>
 
-[**Repository**](https://github.com/RusCucumber/word_list_generator)
+<a href="https://github.com/RusCucumber/word_list_generator"><b>Repository</b></a>
 
 </div>
 
@@ -69,19 +73,23 @@
 
 <div style="margin-left: 20px;">
 
-**About Product**
-- IoT System.
-- It can monitor room temperature, pressure, and humidity, and send message about it by LINE bot.
+<b>About Product</b>
+<ul>
+    <li>IoT System.</li>
+    <li>It can monitor room temperature, pressure, and humidity, and send message about it by LINE bot.</li>
+</ul>
 
-**Architecture**
-- Cloud Server: Heroku
-- OS: Ubuntu
-- DB: MongoDB
-- Sensor: Raspberry Pi & BME280
-- Language: Python, C
-- Flamework: Flask
+<b>Architecture</b>
+<ul>
+    <li>Cloud Server: Heroku</li>
+    <li>OS: Ubuntu</li>
+    <li>DB: MongoDB</li>
+    <li>Sensor: Raspberry Pi & BME280</li>
+    <li>Language: Python, C</li>
+    <li>Flamework: Flask</li>
+</ul>
 
-[**Repository**](https://github.com/RusCucumber/bme280_line_api)
+<a href="https://github.com/RusCucumber/bme280_line_api"><b>Repository</b></a>
 
 </div>
 
@@ -89,16 +97,20 @@
 
 <div style="margin-left: 20px;">
 
-**About Product**
-- LINE bot.
-- Through LINE message, you can create Chousei-san schedule.
+<b>About Product</b>
+<ul>
+    <li>LINE bot.</li>
+    <li>Through LINE message, you can create Chousei-san schedule.</li>
+</ul>
 
-**Architecture**
-- Cloud Server: Heroku
-- OS: Ubuntu
-- Langeage: Python
-- Flamework: Flask
+<b>Architecture</b>
+<ul>
+    <li>Cloud Server: Heroku</li>
+    <li>OS: Ubuntu</li>
+    <li> Language: Python</li>
+    <li>Flamework: Flask</li>
+</ul>
 
-[**Repository**](https://github.com/RusCucumber/Chouseisan-Linebot)
+<a href="https://github.com/RusCucumber/Chouseisan-Linebot"><b>Repository</b></a>
 
 </div>
