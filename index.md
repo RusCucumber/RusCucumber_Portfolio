@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
+# RusCucumber Portfolio
 
-You can use the [editor on GitHub](https://github.com/RusCucumber/my_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. Profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **Name**: Ryuki Matsuura🐰
+- **Country**: Japan🇯🇵
+- **Job**: Student👨‍🎓
+- **Hobby**: Travel🗺, Photos📸
+- **GitHub**: [RusCucumber](https://github.com/RusCucumber)
+- **Facebook**: [Ryuki Matsuura](https://www.facebook.com/ruscucumber)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2. Skills
 
-```markdown
-Syntax highlighted code block
+### Programming Language
+- **Python**: 6 months
 
-# Header 1
-## Header 2
-### Header 3
+- **HTML, CSS**: 6 months
 
-- Bulleted
-- List
+- **SQL**: 3 months
 
-1. Numbered
-2. List
+- **JavaScript**: 1 month
 
-**Bold** and _Italic_ and `Code` text
+- **PHP**: 1 month
 
-[Link](url) and ![Image](src)
-```
+- **C**: Hobby
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **MatLab**: in univ.
 
-### Jekyll Themes
+- **Perl**: in univ.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RusCucumber/my_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **RUST**: Now studying...
 
-### Support or Contact
+### Softwares
+- **MySQL**: 3 months
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **MongoDB**: 3 months
+
+- **WordPress**
+
+---
+
+## 3. Products
+
+### [Word List Generator](https://inaba-hackathon.herokuapp.com/#/)
+
+<div style="margin-left: 20px;">
+
+**About Product**
+- Web App.
+- Made with friends.
+- Translates Automatically from English words chosen from texts to Japanese and generates word list.
+- You can download word list as csv file.
+- [More about app](https://docs.google.com/presentation/d/1C3ui2fw9yjJJow5gqm2k9CFzW5NhGQDT3527D-Izimw/edit?usp=sharing) (only Japanese)
+
+**Architecture**  
+- Cloud Server: Heroku
+- OS: Ubuntu
+- DB: PostgreSQL, Redis
+- Language: Python, React
+- Flamework: Flask
+
+[**Repository**](https://github.com/RusCucumber/word_list_generator)
+
+</div>
+
+### Room Temperature Monitoring IoT System
+
+<div style="margin-left: 20px;">
+
+**About Product**
+- IoT System.
+- It can monitor room temperature, pressure, and humidity, and send message about it by LINE bot.
+
+**Architecture**
+- Cloud Server: Heroku
+- OS: Ubuntu
+- DB: MongoDB
+- Sensor: Raspberry Pi & BME280
+- Language: Python, C
+- Flamework: Flask
+
+[**Repository**](https://github.com/RusCucumber/bme280_line_api)
+
+</div>
+
+### Chousei-san LINE bot
+
+<div style="margin-left: 20px;">
+
+**About Product**
+- LINE bot.
+- Through LINE message, you can create Chousei-san schedule.
+
+**Architecture**
+- Cloud Server: Heroku
+- OS: Ubuntu
+- Langeage: Python
+- Flamework: Flask
+
+[**Repository**](https://github.com/RusCucumber/Chouseisan-Linebot)
+
+</div>
