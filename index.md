@@ -53,9 +53,9 @@
     <li> Made with friends.</li>
     <li> Translates Automatically from English words chosen from texts to Japanese and generates word list.</li>
     <li> You can download word list as csv file.</li>
-    <li> <a href="https://docs.google.com/presentation/d/1C3ui2fw9yjJJow5gqm2k9CFzW5NhGQDT3527D-Izimw/edit?usp=sharing">More about app</a> (only Japanese)
+    <li> <a href="https://docs.google.com/presentation/d/1C3ui2fw9yjJJow5gqm2k9CFzW5NhGQDT3527D-Izimw/edit?usp=sharing">More about app</a> (only Japanese)</li>
 </ul>
-
+<br>
 <b>Architecture</b> 
 <ul>
     <li>Cloud Server: Heroku</li>
@@ -64,9 +64,8 @@
     <li>Language: Python, React</li>
     <li>Flamework: Flask</li>
 </ul>
-
+<br>
 <a href="https://github.com/RusCucumber/word_list_generator"><b>Repository</b></a>
-
 </div>
 
 ### Room Temperature Monitoring IoT System
@@ -78,7 +77,7 @@
     <li>IoT System.</li>
     <li>It can monitor room temperature, pressure, and humidity, and send message about it by LINE bot.</li>
 </ul>
-
+<br>
 <b>Architecture</b>
 <ul>
     <li>Cloud Server: Heroku</li>
@@ -88,7 +87,7 @@
     <li>Language: Python, C</li>
     <li>Flamework: Flask</li>
 </ul>
-
+<br>
 <a href="https://github.com/RusCucumber/bme280_line_api"><b>Repository</b></a>
 
 </div>
@@ -102,7 +101,7 @@
     <li>LINE bot.</li>
     <li>Through LINE message, you can create Chousei-san schedule.</li>
 </ul>
-
+<br>
 <b>Architecture</b>
 <ul>
     <li>Cloud Server: Heroku</li>
@@ -110,7 +109,7 @@
     <li> Language: Python</li>
     <li>Flamework: Flask</li>
 </ul>
-
+<br>
 <a href="https://github.com/RusCucumber/Chouseisan-Linebot"><b>Repository</b></a>
 
 </div>
